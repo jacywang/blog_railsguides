@@ -1,0 +1,1 @@
+Sample app blog from [RailsGuides](http://guides.rubyonrails.org/getting_started.html).
